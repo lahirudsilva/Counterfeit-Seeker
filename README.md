@@ -5,3 +5,5 @@
 ![ alt text ](https://img.shields.io/badge/Jupyter-6.3.0-F37626?style=for-the-badge&logo=Jupyter) 
 ![ alt text ](https://img.shields.io/badge/TensorFlow-2.7.0-FF6F00?style=for-the-badge&logo=TensorFlow) 
 ![ alt text ](https://img.shields.io/badge/Keras-2.7.0-D00000?style=for-the-badge&logo=Keras) 
+
+<img src="image1.png" align="center" width="800">
