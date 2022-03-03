@@ -28,6 +28,15 @@ used by the frontend to make requests and receive responses from the server.
 
 <br />
 
+
+# Related repositories
+  
+- CounterfeitSeeker mobile repository- `Not available publicly`
+
+- CounterfeitSeeker RESTful API respository - `Not available publicly`
+
+<br />
+
 # Convolutional Neural Networks
 Two convolutional neural networks were trained as follows
 
