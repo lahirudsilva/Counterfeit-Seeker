@@ -33,7 +33,7 @@ used by the frontend to make requests and receive responses from the server.
   
 - CounterfeitSeeker mobile repository- `Not available publicly`
 
-- CounterfeitSeeker RESTful API respository - `Not available publicly`
+- CounterfeitSeeker RESTful API respository - https://github.com/TypicalCoderr/Counterfeit-Seeker-RESTful-API
 
 <br />
 
