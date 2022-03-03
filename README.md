@@ -17,7 +17,7 @@ over the years.
 <br />
 
 # Solution
-The system consists of 2 main components, Android application and Flask RESful API
+The system consists of 2 main components, Android application and Flask RESTful API
  that deploys the machine learning model.
 
 The RESTful API is mirrored to public URL using the cross-platform application ngrok. when the Python
