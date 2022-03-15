@@ -31,7 +31,7 @@ used by the frontend to make requests and receive responses from the server.
 
 # Related repositories
   
-- CounterfeitSeeker mobile repository- `Not available publicly`
+- CounterfeitSeeker mobile repository- https://github.com/TypicalCoderr/Counterfeit-Seeker-mobile
 
 - CounterfeitSeeker RESTful API respository - https://github.com/TypicalCoderr/Counterfeit-Seeker-RESTful-API
 
