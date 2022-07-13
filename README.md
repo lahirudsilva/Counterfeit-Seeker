@@ -28,7 +28,6 @@ used by the frontend to make requests and receive responses from the server.
 
 <br />
 
-
 # Related repositories
   
 - CounterfeitSeeker mobile repository- https://github.com/TypicalCoderr/Counterfeit-Seeker-mobile
